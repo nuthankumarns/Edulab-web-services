@@ -1,0 +1,89 @@
+[13-Jul-2011 13:53:33] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'edulabcl_rana'@'localhost' (using password: YES) in /home/edulabcl/public_html/webservice/session.class.php on line 61
+[13-Jul-2011 13:53:33] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/edulabcl/public_html/webservice/session.class.php on line 62
+[13-Jul-2011 13:53:33] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/edulabcl/public_html/webservice/session.class.php on line 126
+[13-Jul-2011 13:55:19] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'edulabcl_rana'@'localhost' (using password: YES) in /home/edulabcl/public_html/webservice/session.class.php on line 61
+[13-Jul-2011 13:55:19] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/edulabcl/public_html/webservice/session.class.php on line 62
+[13-Jul-2011 13:55:19] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/edulabcl/public_html/webservice/session.class.php on line 126
+[13-Jul-2011 13:56:57] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'edulabcl_rana'@'localhost' (using password: YES) in /home/edulabcl/public_html/webservice/session.class.php on line 61
+[13-Jul-2011 13:56:57] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/edulabcl/public_html/webservice/session.class.php on line 62
+[13-Jul-2011 13:56:57] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/edulabcl/public_html/webservice/session.class.php on line 126
+[13-Jul-2011 14:01:56] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'edulabcl_rana'@'localhost' (using password: YES) in /home/edulabcl/public_html/webservice/session.class.php on line 61
+[13-Jul-2011 14:01:56] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/edulabcl/public_html/webservice/session.class.php on line 62
+[13-Jul-2011 14:01:56] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/edulabcl/public_html/webservice/session.class.php on line 126
+[13-Jul-2011 14:03:22] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'edulabcl_rana'@'localhost' (using password: YES) in /home/edulabcl/public_html/webservice/session.class.php on line 61
+[13-Jul-2011 14:03:22] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/edulabcl/public_html/webservice/session.class.php on line 62
+[13-Jul-2011 14:03:22] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/edulabcl/public_html/webservice/session.class.php on line 126
+[13-Jul-2011 14:03:24] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'edulabcl_rana'@'localhost' (using password: YES) in /home/edulabcl/public_html/webservice/session.class.php on line 61
+[13-Jul-2011 14:03:24] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/edulabcl/public_html/webservice/session.class.php on line 62
+[13-Jul-2011 14:03:24] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/edulabcl/public_html/webservice/session.class.php on line 126
+[29-Jul-2011 20:32:20] PHP Fatal error:  Call to undefined function string() in /home/edulabcl/public_html/webservice/self_read_trigger.php on line 18
+[01-Aug-2011 22:00:06] PHP Fatal error:  Call to undefined function string() in /home/edulabcl/public_html/webservice/self_read_trigger.php on line 18
+[01-Aug-2011 22:43:45] PHP Fatal error:  Call to undefined function string() in /home/edulabcl/public_html/webservice/self_read_trigger.php on line 18
+[04-Aug-2011 14:20:56] PHP Fatal error:  Call to undefined function string() in /home/edulabcl/public_html/webservice/self_read_trigger.php on line 18
+[06-Aug-2011 14:29:55] PHP Warning:  implode() [<a href='function.implode'>function.implode</a>]: Invalid arguments passed in /home/edulabcl/public_html/webservice/assign_group_ability.php on line 17
+[06-Aug-2011 14:31:20] PHP Warning:  implode() [<a href='function.implode'>function.implode</a>]: Invalid arguments passed in /home/edulabcl/public_html/webservice/assign_group_ability.php on line 17
+[06-Aug-2011 14:31:27] PHP Warning:  implode() [<a href='function.implode'>function.implode</a>]: Invalid arguments passed in /home/edulabcl/public_html/webservice/assign_group_ability.php on line 17
+[06-Aug-2011 14:32:49] PHP Warning:  implode() [<a href='function.implode'>function.implode</a>]: Invalid arguments passed in /home/edulabcl/public_html/webservice/assign_group_ability.php on line 18
+[06-Aug-2011 14:33:24] PHP Warning:  implode() [<a href='function.implode'>function.implode</a>]: Invalid arguments passed in /home/edulabcl/public_html/webservice/assign_group_ability.php on line 19
+[06-Aug-2011 14:33:27] PHP Warning:  implode() [<a href='function.implode'>function.implode</a>]: Invalid arguments passed in /home/edulabcl/public_html/webservice/assign_group_ability.php on line 19
+[06-Aug-2011 14:33:48] PHP Warning:  implode() [<a href='function.implode'>function.implode</a>]: Invalid arguments passed in /home/edulabcl/public_html/webservice/assign_group_ability.php on line 19
+[06-Aug-2011 14:34:18] PHP Warning:  implode() [<a href='function.implode'>function.implode</a>]: Invalid arguments passed in /home/edulabcl/public_html/webservice/assign_group_ability.php on line 19
+[06-Aug-2011 16:26:07] PHP Fatal error:  Call to undefined function string() in /home/edulabcl/public_html/webservice/self_read_trigger.php on line 18
+[06-Aug-2011 16:37:15] PHP Fatal error:  Call to undefined function string() in /home/edulabcl/public_html/webservice/self_read_trigger.php on line 18
+[08-Aug-2011 13:08:58] PHP Fatal error:  Call to undefined function string() in /home/edulabcl/public_html/webservice/self_read_trigger.php on line 18
+[09-Aug-2011 17:47:52] PHP Fatal error:  Call to undefined function string() in /home/edulabcl/public_html/webservice/self_read_trigger.php on line 18
+[11-Aug-2011 15:10:20] PHP Fatal error:  Call to undefined function string() in /home/edulabcl/public_html/webservice/self_read_trigger.php on line 18
+[11-Aug-2011 15:10:50] PHP Fatal error:  Call to undefined function string() in /home/edulabcl/public_html/webservice/self_read_trigger.php on line 18
+[17-Aug-2011 15:12:19] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/edulabcl/public_html/webservice/mysql.php on line 93
+[17-Aug-2011 18:32:50] PHP Warning:  implode() [<a href='function.implode'>function.implode</a>]: Invalid arguments passed in /home/edulabcl/public_html/webservice/view_module_content.php on line 36
+[17-Aug-2011 18:32:50] PHP Warning:  implode() [<a href='function.implode'>function.implode</a>]: Invalid arguments passed in /home/edulabcl/public_html/webservice/view_module_content.php on line 36
+[17-Aug-2011 18:32:50] PHP Warning:  implode() [<a href='function.implode'>function.implode</a>]: Invalid arguments passed in /home/edulabcl/public_html/webservice/view_module_content.php on line 36
+[17-Aug-2011 18:32:50] PHP Warning:  implode() [<a href='function.implode'>function.implode</a>]: Invalid arguments passed in /home/edulabcl/public_html/webservice/view_module_content.php on line 36
+[17-Aug-2011 18:32:50] PHP Warning:  implode() [<a href='function.implode'>function.implode</a>]: Invalid arguments passed in /home/edulabcl/public_html/webservice/view_module_content.php on line 36
+[17-Aug-2011 18:51:21] PHP Warning:  Cannot use a scalar value as an array in /home/edulabcl/public_html/webservice/view_module_content.php on line 34
+[17-Aug-2011 18:51:21] PHP Warning:  implode() [<a href='function.implode'>function.implode</a>]: Invalid arguments passed in /home/edulabcl/public_html/webservice/view_module_content.php on line 41
+[18-Aug-2011 15:06:22] PHP Parse error:  syntax error, unexpected '.' in /home/edulabcl/public_html/webservice/posted_question.php on line 39
+[18-Aug-2011 15:23:26] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/edulabcl/public_html/webservice/posted_question.php on line 39
+[19-Aug-2011 16:02:06] PHP Fatal error:  Call to undefined function string() in /home/edulabcl/public_html/webservice/self_read_trigger.php on line 18
+[19-Aug-2011 17:40:26] PHP Fatal error:  Call to undefined function string() in /home/edulabcl/public_html/webservice/self_read_trigger.php on line 18
+[15-Sep-2011 19:04:52] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Lost connection to MySQL server at 'reading initial communication packet', system error: 110 in /home/edulabcl/public_html/webservice/session.class.php on line 61
+[15-Sep-2011 19:04:52] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/edulabcl/public_html/webservice/session.class.php on line 62
+[15-Sep-2011 19:04:52] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/edulabcl/public_html/webservice/session.class.php on line 126
+[15-Sep-2011 19:06:34] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Lost connection to MySQL server at 'reading initial communication packet', system error: 110 in /home/edulabcl/public_html/webservice/session.class.php on line 61
+[15-Sep-2011 19:06:34] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/edulabcl/public_html/webservice/session.class.php on line 62
+[15-Sep-2011 19:06:34] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/edulabcl/public_html/webservice/session.class.php on line 126
+[15-Sep-2011 19:54:22] PHP Fatal error:  Call to undefined function string() in /home/edulabcl/public_html/webservice/self_read_trigger.php on line 18
+[15-Sep-2011 20:13:23] PHP Fatal error:  Call to undefined function string() in /home/edulabcl/public_html/webservice/self_read_trigger.php on line 18
+[16-Sep-2011 21:10:13] PHP Parse error:  syntax error, unexpected T_IF in /home/edulabcl/public_html/webservice/student_switch_task.php on line 37
+[16-Sep-2011 21:14:26] PHP Parse error:  syntax error, unexpected T_IF in /home/edulabcl/public_html/webservice/student_switch_task.php on line 37
+[16-Sep-2011 21:17:01] PHP Parse error:  syntax error, unexpected T_IF in /home/edulabcl/public_html/webservice/student_switch_task.php on line 37
+[16-Sep-2011 21:18:23] PHP Parse error:  syntax error, unexpected T_IF in /home/edulabcl/public_html/webservice/student_switch_task.php on line 37
+[16-Sep-2011 21:18:28] PHP Parse error:  syntax error, unexpected T_IF in /home/edulabcl/public_html/webservice/student_switch_task.php on line 37
+[16-Sep-2011 21:18:34] PHP Parse error:  syntax error, unexpected ':' in /home/edulabcl/public_html/webservice/student_switch_task.php on line 42
+[16-Sep-2011 21:18:43] PHP Parse error:  syntax error, unexpected ':' in /home/edulabcl/public_html/webservice/student_switch_task.php on line 42
+[20-Sep-2011 23:56:48] PHP Fatal error:  Call to undefined function string() in /home/edulabcl/public_html/webservice/self_read_trigger.php on line 18
+[20-Sep-2011 23:59:40] PHP Fatal error:  Call to undefined function string() in /home/edulabcl/public_html/webservice/self_read_trigger.php on line 18
+[21-Sep-2011 11:11:36] PHP Fatal error:  Call to undefined function string() in /home/edulabcl/public_html/webservice/self_read_trigger.php on line 18
+[22-Sep-2011 13:58:50] PHP Fatal error:  Call to undefined function string() in /home/edulabcl/public_html/webservice/self_read_trigger.php on line 18
+[22-Sep-2011 14:53:37] PHP Fatal error:  Call to undefined function string() in /home/edulabcl/public_html/webservice/self_read_trigger.php on line 18
+[22-Sep-2011 18:12:08] PHP Fatal error:  Call to undefined function string() in /home/edulabcl/public_html/webservice/self_read_trigger.php on line 18
+[22-Sep-2011 18:31:07] PHP Fatal error:  Call to undefined function string() in /home/edulabcl/public_html/webservice/self_read_trigger.php on line 18
+[27-Sep-2011 17:24:43] PHP Fatal error:  Call to undefined function string() in /home/edulabcl/public_html/webservice/self_read_trigger.php on line 18
+[27-Sep-2011 17:37:57] PHP Fatal error:  Call to undefined function string() in /home/edulabcl/public_html/webservice/self_read_trigger.php on line 18
+[27-Sep-2011 18:22:47] PHP Fatal error:  Call to undefined function string() in /home/edulabcl/public_html/webservice/self_read_trigger.php on line 24
+[27-Sep-2011 18:29:50] PHP Fatal error:  Call to undefined function string() in /home/edulabcl/public_html/webservice/self_read_trigger.php on line 24
+[27-Sep-2011 19:53:28] PHP Fatal error:  Call to undefined function string() in /home/edulabcl/public_html/webservice/self_read_trigger.php on line 24
+[27-Sep-2011 20:00:49] PHP Fatal error:  Call to undefined function string() in /home/edulabcl/public_html/webservice/self_read_trigger.php on line 24
+[30-Sep-2011 14:31:03] PHP Fatal error:  Call to undefined function string() in /home/edulabcl/public_html/webservice/self_read_trigger.php on line 24
+[30-Sep-2011 14:48:51] PHP Fatal error:  Call to undefined function string() in /home/edulabcl/public_html/webservice/self_read_trigger.php on line 22
+[07-Oct-2011 15:04:07] PHP Parse error:  syntax error, unexpected ';' in /home/edulabcl/public_html/webservice/push_notification.php on line 97
+[07-Oct-2011 15:04:12] PHP Parse error:  syntax error, unexpected ';' in /home/edulabcl/public_html/webservice/push_notification.php on line 97
+[07-Oct-2011 15:04:17] PHP Parse error:  syntax error, unexpected ';' in /home/edulabcl/public_html/webservice/push_notification.php on line 97
+[07-Oct-2011 15:04:22] PHP Parse error:  syntax error, unexpected ';' in /home/edulabcl/public_html/webservice/push_notification.php on line 97
+[07-Oct-2011 15:04:27] PHP Parse error:  syntax error, unexpected ';' in /home/edulabcl/public_html/webservice/push_notification.php on line 97
+[07-Oct-2011 15:04:32] PHP Parse error:  syntax error, unexpected ';' in /home/edulabcl/public_html/webservice/push_notification.php on line 97
+[07-Oct-2011 15:04:37] PHP Parse error:  syntax error, unexpected ';' in /home/edulabcl/public_html/webservice/push_notification.php on line 97
+[07-Oct-2011 15:04:42] PHP Parse error:  syntax error, unexpected ';' in /home/edulabcl/public_html/webservice/push_notification.php on line 97
+[07-Oct-2011 15:04:47] PHP Parse error:  syntax error, unexpected ';' in /home/edulabcl/public_html/webservice/push_notification.php on line 97
+[07-Oct-2011 15:04:57] PHP Parse error:  syntax error, unexpected ';' in /home/edulabcl/public_html/webservice/push_notification.php on line 97
+[07-Oct-2011 20:56:07] PHP Parse error:  syntax error, unexpected $end, expecting ']' in /home/edulabcl/public_html/webservice/push_notification.php on line 121
